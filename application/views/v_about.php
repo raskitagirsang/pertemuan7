@@ -2,7 +2,7 @@
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4> 
     <ul type="disc"> 
-        <li>Nama Depan : Raskita</li> 
+        <li>Nama Depan : Raskita Matilda</li> 
         <li>Nama Belakang : Girsang</li> 
     </ul> 
     <br> 
